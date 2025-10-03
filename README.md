@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Micah</h1>
-<h3 align="center">A dedicated ML student from Brazil</h3>
+<h3 align="center">A dedicated student from Brazil</h3>
 
 - 🧠 I’m currently working on **Apprentice toolkit**
 
